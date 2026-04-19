@@ -1,7 +1,2 @@
-echo "# calculator" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ap2099270-dev/calculator.git
-git push -u origin main
+VISIT KARNE KE LIYE KOI THANK YOU NAHI
+PRESS HERE TO OPEN CALC
